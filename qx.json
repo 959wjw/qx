@@ -1,3 +1,7 @@
+{
+    "name": "公众号少年歌行pro全网合一整理",
+    "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
+    "task": [  
 "0 11 6 * * * https://raw.githubusercontent.comert/Scripts/master/Task/weibo.js, tag=微博&钱包, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/weibo.png, enabled=true",
 "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/ttwbxcxSign.js, tag=天天挖矿小程序, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/ttwkxcx.png, enabled=true",
 "15 18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/donate-step.js, tag=捐步数（点击弹窗）, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/alipay.png, enabled=true",
@@ -8,3 +12,5 @@
 "0 0-16/8 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy_reward.js, tag=京东宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
 "0 0 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_blueCoin.js, tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png, enabled=true",
 "10 6 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_syj.js, tag=京东赚京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true",
+    ]
+}
